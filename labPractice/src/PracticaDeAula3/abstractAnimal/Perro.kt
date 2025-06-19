@@ -1,0 +1,4 @@
+package abstractAnimal
+
+class Perro {
+}
